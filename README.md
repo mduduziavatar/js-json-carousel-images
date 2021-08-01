@@ -1,2 +1,2 @@
-# js-json-carousel-images
+#jQuery-json-carousel-images
  
